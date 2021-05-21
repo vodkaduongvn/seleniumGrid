@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "SeleniumGridTest/1.0.0": {
+      "SeleniumGridtest/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "NUnit": "3.12.0",
@@ -15,7 +15,7 @@
           "Selenium.WebDriver.ChromeDriver": "90.0.4430.2400"
         },
         "runtime": {
-          "SeleniumGridTest.dll": {}
+          "SeleniumGridtest.dll": {}
         }
       },
       "Microsoft.CodeCoverage/16.5.0": {
@@ -851,7 +851,7 @@
     }
   },
   "libraries": {
-    "SeleniumGridTest/1.0.0": {
+    "SeleniumGridtest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

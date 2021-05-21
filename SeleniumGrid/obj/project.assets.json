@@ -4554,9 +4554,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGridtest.csproj",
-      "projectName": "SeleniumGridtest",
-      "projectPath": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGridtest.csproj",
+      "projectUniqueName": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGrid.test.csproj",
+      "projectName": "SeleniumGrid.test",
+      "projectPath": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGrid.test.csproj",
       "packagesPath": "C:\\Users\\vodka\\.nuget\\packages\\",
       "outputPath": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\obj\\",
       "projectStyle": "PackageReference",

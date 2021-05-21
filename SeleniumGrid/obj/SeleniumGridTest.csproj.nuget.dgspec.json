@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGrid.csproj": {}
+    "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGridTest.csproj": {}
   },
   "projects": {
-    "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGrid.csproj": {
+    "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGridTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGrid.csproj",
-        "projectName": "SeleniumGrid",
-        "projectPath": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGrid.csproj",
+        "projectUniqueName": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGridTest.csproj",
+        "projectName": "SeleniumGridTest",
+        "projectPath": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\SeleniumGridTest.csproj",
         "packagesPath": "C:\\Users\\vodka\\.nuget\\packages\\",
         "outputPath": "E:\\vodka\\Asteya\\SeleniumGrid\\seleniumGrid\\SeleniumGrid\\obj\\",
         "projectStyle": "PackageReference",
